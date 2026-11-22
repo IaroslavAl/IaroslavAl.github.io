@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://iaroslaval.github.io/surebet-support/sitemap.xml
